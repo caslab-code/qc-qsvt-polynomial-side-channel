@@ -12,11 +12,11 @@ This work was supported in part by NSF grant 2332406.
 
 # Code License
 
-TBD
+The code in this repository is licensed under the MIT License. See the [LICENSE](./LICENSE.txt) file for details.
 
 # Text and Image Copyright
 
-The text Python notebooks is copyrighted by Kidus Tessma and Jakub Szefer, Sept. 2025.
+The text in the Python notebooks is copyrighted by Kidus Tessma and Jakub Szefer, Sept. 2025.
 
 #  Contact
 
